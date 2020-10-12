@@ -1,0 +1,10 @@
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
+        <div class="my-auto">
+          <img src="https://images.unsplash.com/photo-1501493870936-9c2e41625521?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1490&q=80" class="img-thumbnail" alt="Responsive image">
+          <img src="https://images.unsplash.com/photo-1560012057-4372e14c5085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80" class="img-thumbnail" alt="Responsive image">
+          <h2 class="mb-5">Interests</h2>
+          <% data.interests.interests.each do |b| %>
+          <p ><%= b.blurb %></p>
+          <% end %>
+        </div>
+      </section>

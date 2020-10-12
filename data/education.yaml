@@ -1,0 +1,13 @@
+school:
+
+  -
+    institute: Le Wagon London
+    major: Covering front and back end skills
+    degree: Fullstack Web Development
+    attended: October 2019 - March 2020
+
+  -
+    institute: Auckland University of Techonology
+    major: Covering aspects of the Travel and Tourism industry
+    degree: Diploma in Travel and Tourism
+    attended: February 2007 - December 2008

@@ -1,0 +1,29 @@
+skills:
+
+  -
+    icon: html5
+  -
+    icon: css3
+  -
+    icon: ruby
+  -
+    icon: bootstrap
+  -
+    icon: wordpress
+  -
+    icon: javascript
+  -
+    icon: git
+  -
+    icon: github
+  -
+    icon: heroku
+
+workflow:
+
+  -
+    item: Mobile-First, Responsive Design
+  -
+    item: Cross Browser Testing &amp; Debugging
+
+

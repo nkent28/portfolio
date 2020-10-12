@@ -1,0 +1,20 @@
+first_name: Nadia
+last_name: Kent
+email: 'nkent28@gmail.com'
+blurb: "Hi, I'm Nadia Kent, originally from New Zealand and a UK citizen, living in London.
+
+I've recently completed the Le Wagon London bootcamp in which I learnt Ruby on Rails, Ruby, HTML, CSS, Javascript, Bootstrap, Postgres, Git, Github, Heroku, SQL.
+I've always been interested in technology and website making and am passionate about creating websites, turning ideas into a viewable experience online."
+
+
+social:
+  -
+    url: https://github.com/nkent28
+    icon: github
+  -
+    url: https://www.linkedin.com/in/nadia-kent-35638192/
+    icon: linkedin
+  -
+    url: https://twitter.com
+    username: middlemanapp
+    icon: twitter
