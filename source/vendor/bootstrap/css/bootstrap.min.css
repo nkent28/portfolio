@@ -21,3 +21,13 @@
   object-fit: cover;
   margin-top: 25px;
 }
+
+.img-info {
+  margin-right: 40px;
+  width:  800px;
+  height: 400px;
+  background-size: contain;
+  margin-top: 25px;
+}
+
+
